@@ -1,2 +1,2 @@
 def print2() :
-    print('')
+    print('빅데이터 같이 공부해봐요! :)')
